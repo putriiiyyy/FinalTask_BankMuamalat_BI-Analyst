@@ -24,7 +24,7 @@ PT Sejahtera Bersama a nationwide network of stores, generating sales across mul
 - ProductCategoryName (category_name)  
 - TotalSales (total_sales)  
 
-*Q4: Using Looker Studio, create a visualization that displays the sales data* 
+*Q4: Using Looker Studio, create a visualization that displays the sales data*  
 The visualization must include at least:  
 - Total overall sales  
 - Total overall sales by product category  
