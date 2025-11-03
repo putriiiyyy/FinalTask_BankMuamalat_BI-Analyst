@@ -6,8 +6,8 @@ The project focuses on analyzing PT Sejahtera Bersama store transactions across 
 # 🎯 Project Objectives
 PT Sejahtera Bersama a nationwide network of stores, generating sales across multiple provinces in Indonesia. Transactions include various product categories and span from 2020 to 2021. The management requested insights into overall business performance, with a focus on total saless. This project answers 5 questione:
 
-Q1: Determine the primary key for each of the 4 sales datasets
-Primary key of the Customer table
-Primary key of the Products table
-Primary key of the Orders table
-Primary key of the ProductCategory table
+Q1: Determine the primary key for each of the 4 sales datasets  
+1. Primary key of the Customer table  
+2. Primary key of the Products table  
+3. Primary key of the Orders table  
+4. Primary key of the ProductCategory table
