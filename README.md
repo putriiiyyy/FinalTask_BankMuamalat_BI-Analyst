@@ -1,1 +1,4 @@
 # FinalTask_BankMuamalat_BI-Analyst
+This is my Google BigQuery + Looker Studio project, developed as part of the Project-Based Internship with Bank Muamalat x Rakamin Academy as Business Analyst. I worked on the end-to-end process, including data cleaning, SQL queries, business analysis, and visualization.
+
+The project focuses on analyzing Kimia Farma store transactions across Indonesia from 2020 to 2021, with the main goal of calculating total sales. The analysis highlights performance trends by year, region, and product categories, and the results are presented through an interactive dashboard built in Looker Studio to support business decision-making.
