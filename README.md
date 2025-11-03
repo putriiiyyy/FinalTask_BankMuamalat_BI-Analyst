@@ -6,15 +6,15 @@ The project focuses on analyzing PT Sejahtera Bersama store transactions across 
 # 🎯 Project Objectives
 PT Sejahtera Bersama a nationwide network of stores, generating sales across multiple provinces in Indonesia. Transactions include various product categories and span from 2020 to 2021. The management requested insights into overall business performance, with a focus on total saless. This project answers 5 questione:
 
-Q1: Determine the primary key for each of the 4 sales datasets  
+*Q1: Determine the primary key for each of the 4 sales datasets* 
 1. Primary key of the Customer table  
 2. Primary key of the Products table  
 3. Primary key of the Orders table  
 4. Primary key of the ProductCategory table  
 
-Q2: Determine the relationships among the four tables.  
+*Q2: Determine the relationships among the four tables.* 
 
-Q3: As a Business Intelligence Analyst at PT Sejahtera Bersama, we will create a master table containing the following information:  
+*Q3: Create a master table containing the following information*  
 - CustomerEmail (cust_email)  
 - CustomerCity (cust_city)  
 - OrderDate (order_date)  
@@ -24,8 +24,8 @@ Q3: As a Business Intelligence Analyst at PT Sejahtera Bersama, we will create a
 - ProductCategoryName (category_name)  
 - TotalSales (total_sales)  
 
-Q4: From the table created in question number 3, save the result as a CSV file.  
-Then, using Looker Studio, create a visualization that displays the sales data. The visualization must include at least:  
+*Q4: Using Looker Studio, create a visualization that displays the sales data* 
+The visualization must include at least:  
 - Total overall sales  
 - Total overall sales by product category  
 - Total overall quantity by product category  
