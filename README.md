@@ -32,4 +32,17 @@ The visualization must include at least:
 - Total sales by city  
 - Total quantity by city  
 - Top 5 product categories with the highest sales  
-- Top 5 product categories with the highest quantity
+- Top 5 product categories with the highest quantity  
+
+# 🛠️ Tools Used
+- Google BigQuery (SQL) → for data cleaning, querying, grouping, and calculating total sales
+- Google Looker Studio → for creating interactive dashboards and visualizing insights  
+
+# 💻 Sample SQL Query  
+# 📊 Visualization
+An interactive Google Looker Studio dashboard was created to display:  
+# 📚 Credit
+- This project was developed as part of a Project-Based Internship at Bank Muamalat.
+- All datasets used in this project are given Rakamin x Bank Muamalat
+- All SQL queries, analysis, visualizations, key business insights, and recommendations were created by me.
+- This repository is intended solely for learning and portfolio purposes.
