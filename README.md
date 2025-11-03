@@ -10,4 +10,26 @@ Q1: Determine the primary key for each of the 4 sales datasets
 1. Primary key of the Customer table  
 2. Primary key of the Products table  
 3. Primary key of the Orders table  
-4. Primary key of the ProductCategory table
+4. Primary key of the ProductCategory table  
+
+Q2: Determine the relationships among the four tables.  
+
+Q3: As a Business Intelligence Analyst at PT Sejahtera Bersama, we will create a master table containing the following information:  
+- CustomerEmail (cust_email)  
+- CustomerCity (cust_city)  
+- OrderDate (order_date)  
+- OrderQty (order_qty)  
+- ProductName (product_name)  
+- ProductPrice (product_price)  
+- ProductCategoryName (category_name)  
+- TotalSales (total_sales)  
+
+Q4: From the table created in question number 3, save the result as a CSV file.  
+Then, using Looker Studio, create a visualization that displays the sales data. The visualization must include at least:  
+- Total overall sales  
+- Total overall sales by product category  
+- Total overall quantity by product category  
+- Total sales by city  
+- Total quantity by city  
+- Top 5 product categories with the highest sales  
+- Top 5 product categories with the highest quantity
