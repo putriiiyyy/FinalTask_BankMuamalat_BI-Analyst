@@ -50,7 +50,7 @@ SELECT
   products.ProdName AS product_name,
     ....
 ```
-📂 For the full set of queries, check the [SQL_code](SQL/sql_code.sql)
+📂 For the full set of queries, check the [SQL_code](SQL/code.sql)
 # 📊 Visualization
 An interactive Google Looker Studio dashboard was created to display:  
 https://lookerstudio.google.com/s/nlszRXLWODM
