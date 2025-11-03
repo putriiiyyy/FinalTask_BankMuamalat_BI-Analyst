@@ -42,9 +42,7 @@ The visualization must include at least:
 
 # 💻 Sample SQL Query  
 ```
-WITH laba_final_transaction AS
-(
-  SELECT 
+SELECT 
   customers.CustomerEmail AS cust_email,
   customers.CustomerCity AS cust_city,
   orders.Date AS order_date,
@@ -52,6 +50,7 @@ WITH laba_final_transaction AS
   products.ProdName AS product_name,
     ....
 ```
+📂 For the full set of queries, check the [SQL_code](SQL/sql_code.sql)
 # 📊 Visualization
 An interactive Google Looker Studio dashboard was created to display:  
 https://lookerstudio.google.com/s/nlszRXLWODM
