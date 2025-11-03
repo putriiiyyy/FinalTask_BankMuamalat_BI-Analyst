@@ -34,6 +34,8 @@ The visualization must include at least:
 - Top 5 product categories with the highest sales  
 - Top 5 product categories with the highest quantity  
 
+*Q5: Our Next Step*  
+
 # 🛠️ Tools Used
 - Google BigQuery (SQL) → for data cleaning, querying, grouping, and calculating total sales
 - Google Looker Studio → for creating interactive dashboards and visualizing insights  
