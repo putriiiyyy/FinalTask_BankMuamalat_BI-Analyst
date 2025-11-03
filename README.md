@@ -41,10 +41,23 @@ The visualization must include at least:
 - Google Looker Studio → for creating interactive dashboards and visualizing insights  
 
 # 💻 Sample SQL Query  
+```
+WITH laba_final_transaction AS
+(
+  SELECT 
+  customers.CustomerEmail AS cust_email,
+  customers.CustomerCity AS cust_city,
+  orders.Date AS order_date,
+  orders.Quantity AS order_qty,
+  products.ProdName AS product_name,
+    ....
+```
 # 📊 Visualization
 An interactive Google Looker Studio dashboard was created to display:  
+https://lookerstudio.google.com/s/nlszRXLWODM
+
 # 📚 Credit
 - This project was developed as part of a Project-Based Internship at Bank Muamalat.
-- All datasets used in this project are given Rakamin x Bank Muamalat
+- All datasets used in this project are given by Rakamin x Bank Muamalat
 - All SQL queries, analysis, visualizations, key business insights, and recommendations were created by me.
 - This repository is intended solely for learning and portfolio purposes.
